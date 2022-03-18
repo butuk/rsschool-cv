@@ -1,5 +1,5 @@
 
-![photo](/photo.png)
+![](/photo.png)
 # Vitali Yanusheuski
 
 Email: bootook@gmail.com
@@ -79,3 +79,4 @@ English, advanced level, CEFR C1
 Belarusian, native
 
 Russian, if needed
+&nbsp;

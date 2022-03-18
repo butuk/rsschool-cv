@@ -1,1 +1,1 @@
-# rsschool-cv
+https://butuk.github.io/rsschool-cv/cv
